@@ -7,7 +7,7 @@
 [[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:resources[m [1m(default-resources)[m @ [36msurefire-durations[0;1m ---[m
 [[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
 [[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
-[[1;34mINFO[m] skip non existing resourceDirectory /home/ivo/code/surefire-test-durations/src/main/resources
+[[1;34mINFO[m] skip non existing resourceDirectory /home/ivo/code/maven-surefire-test-durations/src/main/resources
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:compile[m [1m(default-compile)[m @ [36msurefire-durations[0;1m ---[m
 [[1;34mINFO[m] Nothing to compile - all classes are up to date
@@ -15,7 +15,7 @@
 [[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:testResources[m [1m(default-testResources)[m @ [36msurefire-durations[0;1m ---[m
 [[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
 [[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
-[[1;34mINFO[m] skip non existing resourceDirectory /home/ivo/code/surefire-test-durations/src/test/resources
+[[1;34mINFO[m] skip non existing resourceDirectory /home/ivo/code/maven-surefire-test-durations/src/test/resources
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:testCompile[m [1m(default-testCompile)[m @ [36msurefire-durations[0;1m ---[m
 [[1;34mINFO[m] Nothing to compile - all classes are up to date
@@ -26,15 +26,15 @@
 [[1;34mINFO[m]  T E S T S
 [[1;34mINFO[m] -------------------------------------------------------
 [[1;34mINFO[m] Running com.github.teleivo.[1mAppTest[m
-[[1;34mINFO[m] [1;32mTests run: [0;1;32m1[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.032 s - in com.github.teleivo.[1mAppTest[m
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m2[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.039 s - in com.github.teleivo.[1mAppTest[m
 [[1;34mINFO[m] 
 [[1;34mINFO[m] Results:
 [[1;34mINFO[m] 
-[[1;34mINFO[m] [1;32mTests run: 1, Failures: 0, Errors: 0, Skipped: 0[m
+[[1;34mINFO[m] [1;32mTests run: 2, Failures: 0, Errors: 0, Skipped: 0[m
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [[1;34mINFO[m] [1;32mBUILD SUCCESS[m
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
-[[1;34mINFO[m] Total time:  32.957 s
-[[1;34mINFO[m] Finished at: 2021-11-05T06:46:45+01:00
+[[1;34mINFO[m] Total time:  31.911 s
+[[1;34mINFO[m] Finished at: 2021-11-05T13:22:31+01:00
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
