@@ -18,3 +18,8 @@ not sure what ;)
 The [AppTest](./src/test/java/com/github/teleivo/AppTest.java) uses
 `Thread.sleep()` to clearly provoke timings in the report that can be
 attributed back to the testcase or suite.
+
+## Related
+
+If you want to convert Surefire XML reports to CSV for further processing head
+over to [maven-surefire-reports-to-csv](https://github.com/teleivo/maven-surefire-reports-to-csv).
