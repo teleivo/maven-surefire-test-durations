@@ -14,3 +14,7 @@ element `testcase` attribute `time`.
 
 The element `testsuite` is the sum of `testcase`s and a little extra spent on
 not sure what ;)
+
+The [AppTest](./src/test/java/com/github/teleivo/AppTest.java) uses
+`Thread.sleep()` to clearly provoke timings in the report that can be
+attributed back to the testcase or suite.
